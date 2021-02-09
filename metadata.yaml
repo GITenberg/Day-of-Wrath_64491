@@ -1,11 +1,16 @@
 _repo: Day-of-Wrath_64491
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64491-h/images/cover.jpg
 creator:
   author:
     agent_name: Kirchhoff, Bjarne
     gutenberg_agent_id: '52929'
     url: http://www.gutenberg.org/2009/agents/52929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64491#Day-of-Wrath
 gutenberg_issued: '2021-02-07'
 gutenberg_type: Text
 identifiers:
